@@ -11,6 +11,8 @@ author: cht
 language: zh-CN
 timezone: ''
 
+
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://oiercht.github.io/
@@ -103,5 +105,5 @@ theme: jelly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:IcyLightDream/cht_blog.git
+  repo: git@github.com:oiercht/oiercht.github.io.git
   branch: gh-pages
